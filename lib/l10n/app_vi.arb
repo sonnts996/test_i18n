@@ -1,0 +1,25 @@
+{
+  "@@locale": "vi",
+  "@itemCount": {
+    "description": "A gendered message",
+    "placeholders": {
+      "count": {
+        "format": "compact",
+        "type": "num"
+      }
+    }
+  },
+  "buttonCount": "Bộ đếm",
+  "itemCount": "Tổng {count, plural, =0{0 cái} =1{1 cái} other{{count} cái}}",
+  "title": "I18n Demo",
+  "loginButton": "Login",
+  "toggleLanguage": "Thay đổi ngôn ngữ thành {nextLang}",
+  "@toggleLanguage": {
+    "placeholders": {
+      "nextLang": {
+        "type": "String",
+        "example": "en"
+      }
+    }
+  }
+}

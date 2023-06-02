@@ -1,0 +1,25 @@
+{
+  "@@locale": "en",
+  "@itemCount": {
+    "description": "A gendered message",
+    "placeholders": {
+      "count": {
+        "format": "compact",
+        "type": "num"
+      }
+    }
+  },
+  "buttonCount": "Counter",
+  "itemCount": "Total {count, plural, =0{0 item} =1{1 item} other{{count} items}}",
+  "title": "I18n Demo",
+  "loginButton": "Login",
+  "toggleLanguage": "Change Language to {nextLang}",
+  "@toggleLanguage": {
+    "placeholders": {
+      "nextLang": {
+        "type": "String",
+        "example": "en"
+      }
+    }
+  }
+}
